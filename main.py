@@ -526,7 +526,7 @@ windows.connect(button_ls_version, SIGNAL('pressed()'), ls_version)
 
 windows.setLayout(izgara)
 windows.setWindowTitle('LS')
-windows.setFixedSize(1400,710)
+windows.setFixedSize(1320,710)
 windows.show()
 
 uygulama.exec_()
