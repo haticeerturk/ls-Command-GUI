@@ -180,7 +180,7 @@ def ls_l():
 
 def ls_L():
     f = os.popen("ls -L")
-    result = "<h3 style='color:#DC143C'> Aciklama : Bir sembolik bagin dosya bilgileri gösterilirken, dosya icin varolan  baglanti basvurularindan ziyade kendisi icin olan bilgileri gosterilir.</h3>"
+    result = "<h3 style='color:#DC143C'> Aciklama : Bir sembolik bagin dosya bilgileri gosterilirken, dosya icin varolan  baglanti basvurularindan ziyade kendisi icin olan bilgileri gosterilir.</h3>"
     for i in f.readlines():
         result += i
         result += "<br/>"
