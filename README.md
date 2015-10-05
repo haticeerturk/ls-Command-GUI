@@ -1,4 +1,4 @@
 # ls-Command-GUI
 
-<img src="http://i.hizliresim.com/RB6loa.png">
-<img src="http://i.hizliresim.com/48RvP0.png">
+<img src="http://i.hizliresim.com/D9k0Ao.jpg">
+<img src="http://i.hizliresim.com/rRdoDa.jpg">
